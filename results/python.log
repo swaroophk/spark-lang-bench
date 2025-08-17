@@ -1,0 +1,4 @@
+WorkloadA_SQL took 806 ms
+WorkloadB_UDF(py) took 1609 ms
+WorkloadB_UDF(pandas) took 1025 ms
+RESULT python rows=2000000 users=200000 shuffle=600 adaptive=true WorkloadA_ms=806 WorkloadB_py_ms=1609 WorkloadB_pandas_ms=1025

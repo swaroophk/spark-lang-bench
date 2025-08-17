@@ -1,0 +1,3 @@
+WorkloadA_SQL took 792 ms
+WorkloadB_UDF took 815 ms
+RESULT scala rows=2000000 users=200000 shuffle=600 adaptive=true WorkloadA_ms=792 WorkloadB_ms=815
