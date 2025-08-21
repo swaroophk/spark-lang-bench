@@ -1,5 +1,7 @@
 Transactions: 2000000
 Users: 200000
-WorkloadA_SQL took 803 ms
-WorkloadB_UDF took 805 ms
-RESULT java rows=2000000 users=200000 shuffle=600 adaptive=true WorkloadA_ms=803 WorkloadB_ms=805
+WorkloadA_SQL took 1040 ms
+WorkloadB_UDF took 942 ms
+RESULT java rows=2000000 users=200000 shuffle=600 adaptive=true WorkloadA_ms=1040 WorkloadB_ms=942
+WorkloadA_UDFWindow took 607 ms
+RESULT java_udf rows=2000000 ... workloadA_UDF_ms=607

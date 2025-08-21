@@ -1,4 +1,5 @@
 lang,rows,users,shuffle,adaptive,WorkloadA_ms,WorkloadB_ms,WorkloadB_py_ms,WorkloadB_pandas_ms
-java,2000000,200000,600,true,803,805,,
+java,2000000,200000,600,true,1040,942,,
+java_udf,2000000,,,,,,,
 python,2000000,200000,600,true,806,,1609,1025
 scala,2000000,200000,600,true,792,815,,
